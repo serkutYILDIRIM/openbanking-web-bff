@@ -7,7 +7,9 @@ import org.springframework.boot.test.context.SpringBootTest;
 class OpenbankingWebBffApplicationMainTests {
     @Test
     void mainMethodRunsSuccessfully() {
+        
         OpenbankingWebBffApplication.main(new String[]{});
+        
     }
 
 }
